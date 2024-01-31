@@ -1,0 +1,8 @@
+{
+	"name": "Module1 Container",
+	"dockerComposeFile": ["../../docker-compose.yml"],
+	"service": "module1",
+	"shutdownAction": "none",
+	"workspaceFolder": "/workspace/module1"
+	// "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}"
+}
